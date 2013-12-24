@@ -12,7 +12,7 @@ deleting objects in a Haystack_ search index.
 Requirements
 ------------
 
-* Django 1.2+
+* Django 1.2+ and 1.6
 * Haystack_ `1.2.X`_ *or* `2.X`_
 * Celery_ 2.X
 
